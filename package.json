@@ -1,5 +1,4 @@
 {
-  "homepage": "https://mramirparsa.github.io/Vr-React",
   "name": "blog",
   "version": "0.1.0",
   "private": true,
@@ -22,6 +21,7 @@
     "react-scripts": "5.0.1",
     "swiper": "^9.3.2"
   },
+  "homepage": "https://mramirparsa.github.io/Vr-React",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
