@@ -1,6 +1,7 @@
 {
   "name": "blog",
   "version": "0.1.0",
+  "homepage": "https://mramirparsa.github.io/React-Vr",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
@@ -28,7 +29,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://mramirparsa.github.io/Vr-React",
   "eslintConfig": {
     "extends": [
       "react-app",
