@@ -1,36 +1,21 @@
-import React from "react";
-
-// import navigation data
-import {navigation} from '../data'
-
-// import link
-import { Link } from "react-scroll";
+import React from 'react';
 
 const Nav = () => {
   return (
-    <nav>
-      <ul className="flex space-x-8 capitalize text-[15px]">
-        {navigation.map((item, index) => {
-          return (
-            <li
-              className="text-white hover:text-accent cursor-pointer
-            "
-              key={index}
-            >
-              <Link
-                to={item.href}
-                activeClass="active"
-                spy={true}
-                smooth={true}
-                duration={500}
-                offset={-70}
-                className="transition-all duration-300"
-              >
-                {item.name}
-              </Link>
-            </li>
-          );
-        })}
+    <nav className='hidden lg:flex'>
+      <ul className='flex items-center space-x-12 font-secondary'>
+        <li className='nav-link'>
+          <a href='#'>Home</a>
+        </li>
+        <li className='nav-link'>
+          <a href='#'>Company</a>
+        </li>
+        <li className='nav-link'>
+          <a href='#'>Features</a>
+        </li>
+        <li className='btn'>
+          <a href='#'>Sign up</a>
+        </li>
       </ul>
     </nav>
   );

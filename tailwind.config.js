@@ -2,12 +2,12 @@ module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   theme: {
     fontFamily: {
-      primary: 'Playfair Display',
-      body: 'Work Sans',
+      primary: 'Orbitron, sans-serif',
+      secondary: 'Inter, sans-serif',
     },
     container: {
       padding: {
-        DEFAULT: '1rem',
+        DEFAULT: '1.5rem',
         lg: '3rem',
       },
     },
@@ -17,23 +17,22 @@ module.exports = {
       lg: '1024px',
       xl: '1280px',
     },
+
     extend: {
-      content: {
-        about: 'url("/src/assets/img/outline-text/about.svg")',
-        portfolio: 'url("/src/assets/img/outline-text/portfolio.svg")',
-        services: 'url("/src/assets/img/outline-text/services.svg")',
-        testimonials: 'url("/src/assets/img/outline-text/testimonials.svg")',
-        contact: 'url("/src/assets/img/outline-text/contact.svg")',
-      },
       colors: {
-        primary: '#050402',
-        secondary: '#1C1D24',
-        tertiary: '#131419',
-        accent: {
-          DEFAULT: '#ac6b34',
-          hover: '#925a2b',
-        },
-        paragraph: '#878e99',
+        body: '#010208',
+        white: '#fff',
+        pink: 'pink',
+        transparent: 'transparent',
+      },
+      boxShadow: {
+        primary: '0px 4px 40px rgba(0, 0, 0, 0.03)',
+      },
+      backgroundImage: {
+        radialBgCircle: "url('/src/assets/img/radial-bg.svg')",
+        videoBg: "url('/src/assets/img/video-bg.png')",
+        circle: "url('/src/assets/img/circle.png')",
+        explore: "url('/src/assets/img/explore.png')",
       },
     },
   },
