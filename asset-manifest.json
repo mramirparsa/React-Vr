@@ -1,29 +1,28 @@
 {
   "files": {
-    "main.css": "./static/css/main.575e77a0.css",
-    "main.js": "./static/js/main.fec00d09.js",
-    "static/media/about.webp": "./static/media/about.2c2bda9a46420b56d2b5.webp",
-    "static/media/banner-woman2.webp": "./static/media/banner-woman2.484a3b40fee634e4b12f.webp",
-    "static/media/testimonial-2.webp": "./static/media/testimonial-2.4c1e7c2fe42e548d2e0f.webp",
-    "static/media/p1.webp": "./static/media/p1.52f0f3a89c11044c2037.webp",
-    "static/media/p5.webp": "./static/media/p5.40f22911cc8104bfdf42.webp",
-    "static/media/testimonial-3.webp": "./static/media/testimonial-3.677360499dd5a97f022a.webp",
-    "static/media/logo.svg": "./static/media/logo.b40a46869d8e3421cad9bf9a0b71804b.svg",
-    "static/media/services.svg": "./static/media/services.0d43785bd1f41e4d0371.svg",
-    "static/media/portfolio.svg": "./static/media/portfolio.bff8b39169bade93c32b.svg",
-    "static/media/p3.webp": "./static/media/p3.05179f007af7cd2ad2a6.webp",
-    "static/media/contact.svg": "./static/media/contact.acdd342ba1db0f98c7cd.svg",
-    "static/media/p4.webp": "./static/media/p4.373ffd063f14c91c84c5.webp",
-    "static/media/p6.webp": "./static/media/p6.26fcf4320bfa0eacc03a.webp",
-    "static/media/testimonial-1.webp": "./static/media/testimonial-1.8e05fd5dbc71387931b5.webp",
-    "static/media/p2.webp": "./static/media/p2.987c883e6e66df8a1228.webp",
-    "static/media/about.svg": "./static/media/about.192e39ff229e6eb06083.svg",
+    "main.css": "./static/css/main.de13cd35.css",
+    "main.js": "./static/js/main.af11f94d.js",
+    "static/media/headset-1.png": "./static/media/headset-1.4113a83119be0dd4c844.png",
+    "static/media/explore.png": "./static/media/explore.ebf710feded2cdf0173a.png",
+    "static/media/headset-3.png": "./static/media/headset-3.dd254bc5c9f5710f6b8c.png",
+    "static/media/headset-2.png": "./static/media/headset-2.5e7d3a4f5053a7cd83ce.png",
+    "static/media/headset-4.png": "./static/media/headset-4.86fbd5331fdf883cace8.png",
+    "static/media/banner-img.png": "./static/media/banner-img.88d2cff0054ba733f8f1.png",
+    "static/media/exp-img1.png": "./static/media/exp-img1.28ea24567fb8b360e2e4.png",
+    "static/media/exp-img2.png": "./static/media/exp-img2.a216be8605dcc797f8c2.png",
+    "static/media/circle.png": "./static/media/circle.ab211ee049f549b93c44.png",
+    "static/media/video-bg.png": "./static/media/video-bg.a355a39dae93704ab5bf.png",
+    "static/media/logo.svg": "./static/media/logo.1ce7d72c3e53ededdf4672a4a768de7d.svg",
+    "static/media/avt2.png": "./static/media/avt2.f68763ab41dae813d681.png",
+    "static/media/avt1.png": "./static/media/avt1.75a70dbb97844b58465f.png",
+    "static/media/avt3.png": "./static/media/avt3.a7ba70df418b3df1ae78.png",
+    "static/media/avt4.png": "./static/media/avt4.aabbb166b2124eb5f652.png",
     "index.html": "./index.html",
-    "main.575e77a0.css.map": "./static/css/main.575e77a0.css.map",
-    "main.fec00d09.js.map": "./static/js/main.fec00d09.js.map"
+    "main.de13cd35.css.map": "./static/css/main.de13cd35.css.map",
+    "main.af11f94d.js.map": "./static/js/main.af11f94d.js.map"
   },
   "entrypoints": [
-    "static/css/main.575e77a0.css",
-    "static/js/main.fec00d09.js"
+    "static/css/main.de13cd35.css",
+    "static/js/main.af11f94d.js"
   ]
 }
