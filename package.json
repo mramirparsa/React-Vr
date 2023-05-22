@@ -1,7 +1,7 @@
 {
   "name": "blog",
   "version": "0.1.0",
-  "homepage": ".",
+  "homepage": "https://mramirparsa.github.io/React-Vr",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
